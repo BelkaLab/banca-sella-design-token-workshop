@@ -7,132 +7,55 @@
           "value": "{global.white}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background"
-              },
-              "variableId": "VariableID:38:3",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "primary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.green.60}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-primary"
-              },
-              "variableId": "VariableID:38:6",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.green.80}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-primary-hover"
-              },
-              "variableId": "VariableID:40:2",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.eggplant.90}",
+          "value": "{global.green.90}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-primary-active"
-              },
-              "variableId": "VariableID:40:3",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "secondary": {
           "type": "color",
-          "value": "{global.eggplant.60}",
+          "value": "{global.breeze.60}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-secondary"
-              },
-              "variableId": "VariableID:40:4",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "secondary-hover": {
           "type": "color",
-          "value": "{global.eggplant.70}",
+          "value": "{global.breeze.70}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-secondary-hover"
-              },
-              "variableId": "VariableID:40:5",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "secondary-active": {
           "type": "color",
-          "value": "{global.eggplant.90}",
+          "value": "{global.breeze.90}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-secondary-active"
-              },
-              "variableId": "VariableID:40:6",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "tertiary": {
@@ -140,18 +63,7 @@
           "value": "{global.breeze.60}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-tertiary"
-              },
-              "variableId": "VariableID:40:7",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "tertiary-hover": {
@@ -159,18 +71,7 @@
           "value": "{global.breeze.80}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-tertiary-hover"
-              },
-              "variableId": "VariableID:40:8",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "tertiary-active": {
@@ -178,18 +79,7 @@
           "value": "{global.breeze.90}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-background-tertiary-active"
-              },
-              "variableId": "VariableID:40:9",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         }
       },
@@ -199,18 +89,7 @@
           "value": "{global.white}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-text"
-              },
-              "variableId": "VariableID:40:10",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "primary": {
@@ -218,18 +97,7 @@
           "value": "{global.wall.60}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-text-primary"
-              },
-              "variableId": "VariableID:40:11",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "secondary": {
@@ -237,18 +105,7 @@
           "value": "{global.acid.90}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-text-secondary"
-              },
-              "variableId": "VariableID:40:12",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "tertiary": {
@@ -256,18 +113,7 @@
           "value": "{global.green.80}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-text-tertiary"
-              },
-              "variableId": "VariableID:40:13",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         },
         "inverse": {
@@ -275,18 +121,7 @@
           "value": "{global.black}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "color-text-inverse"
-              },
-              "variableId": "VariableID:69:136",
-              "collection": {
-                "id": "VariableCollectionId:2:6",
-                "name": "semantic",
-                "defaultModeId": "2:2"
-              }
-            }
+            "mode": {}
           }
         }
       }
@@ -297,18 +132,7 @@
         "value": "12px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-xs"
-            },
-            "variableId": "VariableID:62:11",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "md": {
@@ -316,18 +140,7 @@
         "value": "24px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-md"
-            },
-            "variableId": "VariableID:62:12",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "2xs": {
@@ -335,18 +148,7 @@
         "value": "8px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-xs"
-            },
-            "variableId": "VariableID:8002:107",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "none": {
@@ -354,18 +156,7 @@
         "value": "0px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-xs"
-            },
-            "variableId": "VariableID:8002:108",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "lg": {
@@ -373,18 +164,7 @@
         "value": "48px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-md"
-            },
-            "variableId": "VariableID:8002:109",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "xl": {
@@ -392,18 +172,7 @@
         "value": "56px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-md"
-            },
-            "variableId": "VariableID:8002:110",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "2xl": {
@@ -411,18 +180,7 @@
         "value": "64px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-md"
-            },
-            "variableId": "VariableID:8002:111",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "sm": {
@@ -430,18 +188,7 @@
         "value": "16px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "spacing-xs"
-            },
-            "variableId": "VariableID:8002:117",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -451,18 +198,7 @@
         "value": "24px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:62:13",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "none": {
@@ -470,18 +206,7 @@
         "value": "0px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:8002:112",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "md": {
@@ -489,18 +214,7 @@
         "value": "32px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:8002:113",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "lg": {
@@ -508,18 +222,7 @@
         "value": "48px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:8002:114",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "super": {
@@ -527,18 +230,7 @@
         "value": "999px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:8002:115",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       },
       "xs": {
@@ -546,18 +238,7 @@
         "value": "8px",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {
-              "WEB": "radius-base"
-            },
-            "variableId": "VariableID:8002:116",
-            "collection": {
-              "id": "VariableCollectionId:2:6",
-              "name": "semantic",
-              "defaultModeId": "2:2"
-            }
-          }
+          "mode": {}
         }
       }
     }
@@ -570,18 +251,7 @@
           "value": "{semantic.color.background.primary}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-bg"
-              },
-              "variableId": "VariableID:69:14",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-hover": {
@@ -589,18 +259,7 @@
           "value": "{semantic.color.background.primary-hover}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-bg-hover"
-              },
-              "variableId": "VariableID:69:15",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-active": {
@@ -608,18 +267,7 @@
           "value": "{semantic.color.background.primary-active}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-bg-active"
-              },
-              "variableId": "VariableID:69:16",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "foreground": {
@@ -627,18 +275,7 @@
           "value": "{semantic.color.background.default}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-foreground"
-              },
-              "variableId": "VariableID:69:17",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "border-default": {
@@ -646,18 +283,7 @@
           "value": "{semantic.color.background.primary}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-border"
-              },
-              "variableId": "VariableID:77:5",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "border-hover": {
@@ -665,18 +291,7 @@
           "value": "{semantic.color.background.primary-hover}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-border-hover"
-              },
-              "variableId": "VariableID:77:6",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "border-active": {
@@ -684,18 +299,7 @@
           "value": "{semantic.color.background.primary-active}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-primary-border-active"
-              },
-              "variableId": "VariableID:77:7",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         }
       },
@@ -705,18 +309,7 @@
           "value": "{semantic.color.background.secondary}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-border"
-              },
-              "variableId": "VariableID:69:63",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "border-hover": {
@@ -724,18 +317,7 @@
           "value": "{semantic.color.background.secondary-hover}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-border-hover"
-              },
-              "variableId": "VariableID:69:64",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "border-active": {
@@ -743,18 +325,7 @@
           "value": "{semantic.color.background.secondary-active}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-border-active"
-              },
-              "variableId": "VariableID:69:65",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "foreground": {
@@ -762,18 +333,7 @@
           "value": "{semantic.color.background.secondary}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-foreground"
-              },
-              "variableId": "VariableID:69:66",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-default": {
@@ -781,18 +341,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg"
-              },
-              "variableId": "VariableID:77:2",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-hover": {
@@ -800,18 +349,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg-hover"
-              },
-              "variableId": "VariableID:77:3",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-active": {
@@ -819,18 +357,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg-active"
-              },
-              "variableId": "VariableID:77:4",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         }
       },
@@ -840,18 +367,7 @@
           "value": "{semantic.color.background.tertiary}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-foreground"
-              },
-              "variableId": "VariableID:8002:146",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-default": {
@@ -859,18 +375,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg"
-              },
-              "variableId": "VariableID:8002:147",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-hover": {
@@ -878,18 +383,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg-hover"
-              },
-              "variableId": "VariableID:8002:148",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "bg-active": {
@@ -897,18 +391,7 @@
           "value": "{global.alpha}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-bg-active"
-              },
-              "variableId": "VariableID:8002:149",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "fg-hover": {
@@ -916,18 +399,7 @@
           "value": "{semantic.color.background.tertiary-hover}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-border-hover"
-              },
-              "variableId": "VariableID:8002:151",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "fg-active": {
@@ -935,18 +407,7 @@
           "value": "{semantic.color.background.tertiary-active}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {
-                "WEB": "button-secondary-border-active"
-              },
-              "variableId": "VariableID:8002:152",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         }
       },
@@ -956,33 +417,15 @@
           "value": "{semantic.spacing.xs}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {},
-              "variableId": "VariableID:8002:156",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "padding-h": {
           "type": "dimension",
-          "value": "{semantic.spacing.xs}",
+          "value": "{semantic.spacing.md}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {},
-              "variableId": "VariableID:8002:157",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         },
         "radius": {
@@ -990,16 +433,7 @@
           "value": "{semantic.radius.xs}",
           "description": "",
           "$extensions": {
-            "mode": {},
-            "figma": {
-              "codeSyntax": {},
-              "variableId": "VariableID:8002:158",
-              "collection": {
-                "id": "VariableCollectionId:2:7",
-                "name": "specific",
-                "defaultModeId": "2:3"
-              }
-            }
+            "mode": {}
           }
         }
       }
@@ -1012,16 +446,7 @@
         "value": "#f7f2f4",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:4",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1029,16 +454,7 @@
         "value": "#eee4e9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:5",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1046,16 +462,7 @@
         "value": "#dcc6d0",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:6",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1063,16 +470,7 @@
         "value": "#c8a1b4",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:7",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1080,16 +478,7 @@
         "value": "#b27292",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:8",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1097,16 +486,7 @@
         "value": "#990066",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:9",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1114,16 +494,7 @@
         "value": "#89005b",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:10",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1131,16 +502,7 @@
         "value": "#77004f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:11",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -1148,16 +510,7 @@
         "value": "#610041",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:12",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -1165,16 +518,7 @@
         "value": "#44002e",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:13",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -1184,16 +528,7 @@
         "value": "#f2f6f7",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:24",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1201,16 +536,7 @@
         "value": "#e4ecee",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:25",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1218,16 +544,7 @@
         "value": "#c6d7dc",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:26",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1235,16 +552,7 @@
         "value": "#a1c0c8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:27",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1252,16 +560,7 @@
         "value": "#72a6b2",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:28",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1269,16 +568,7 @@
         "value": "#008799",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:29",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1286,16 +576,7 @@
         "value": "#007989",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:30",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1303,16 +584,7 @@
         "value": "#006977",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:31",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -1320,16 +592,7 @@
         "value": "#005561",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:32",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -1337,16 +600,7 @@
         "value": "#003c44",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:33",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -1356,16 +610,7 @@
         "value": "#f7f2f2",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:34",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1373,16 +618,7 @@
         "value": "#eee4e4",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:35",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1390,16 +626,7 @@
         "value": "#dcc6c6",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:36",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1407,16 +634,7 @@
         "value": "#c8a1a2",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:37",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1424,16 +642,7 @@
         "value": "#b27273",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:38",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1441,16 +650,7 @@
         "value": "#990011",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:39",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1458,16 +658,7 @@
         "value": "#89000f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:40",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1475,16 +666,7 @@
         "value": "#77000d",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:41",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -1492,16 +674,7 @@
         "value": "#61000b",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:42",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -1509,16 +682,7 @@
         "value": "#440008",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:43",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -1528,16 +692,7 @@
         "value": "#fef8f2",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:44",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1545,16 +700,7 @@
         "value": "#fef2e4",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:45",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1562,16 +708,7 @@
         "value": "#fde3c6",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:46",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1579,16 +716,7 @@
         "value": "#fbd4a1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:47",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1596,16 +724,7 @@
         "value": "#fac472",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:48",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1613,16 +732,7 @@
         "value": "#f9b200",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:49",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1630,16 +740,7 @@
         "value": "#df9f00",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:50",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1647,16 +748,7 @@
         "value": "#c18a00",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:51",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -1664,16 +756,7 @@
         "value": "#9d7100",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:52",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -1681,16 +764,7 @@
         "value": "#6f5000",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:53",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -1700,16 +774,7 @@
         "value": "#f2f7fe",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:54",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1717,16 +782,7 @@
         "value": "#e4f0fe",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:55",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1734,16 +790,7 @@
         "value": "#c6dffd",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:56",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1751,16 +798,7 @@
         "value": "#a1cdfb",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:57",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1768,16 +806,7 @@
         "value": "#72bafa",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:58",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1785,16 +814,7 @@
         "value": "#00a4f9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:59",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1802,16 +822,7 @@
         "value": "#0093df",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:60",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1819,16 +830,7 @@
         "value": "#007fc1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:61",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -1836,16 +838,7 @@
         "value": "#00689d",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:62",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -1853,16 +846,7 @@
         "value": "#00496f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:63",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -1872,16 +856,7 @@
         "value": "#f3f5f8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:64",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -1889,16 +864,7 @@
         "value": "#e6eaf1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:65",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -1906,16 +872,7 @@
         "value": "#c9d2e1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:66",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -1923,16 +880,7 @@
         "value": "#a8b8d1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:67",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -1940,16 +888,7 @@
         "value": "#7e99bf",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:68",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -1957,16 +896,7 @@
         "value": "#3d72ab",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:69",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -1974,16 +904,7 @@
         "value": "#376699",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:70",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -1991,16 +912,7 @@
         "value": "#2f5884",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:71",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2008,16 +920,7 @@
         "value": "#27486c",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:72",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2025,16 +928,7 @@
         "value": "#1b334c",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:73",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -2044,16 +938,7 @@
         "value": "#f8f4f3",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:74",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -2061,16 +946,7 @@
         "value": "#f1e7e6",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:75",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -2078,16 +954,7 @@
         "value": "#e1cdc9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:76",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -2095,16 +962,7 @@
         "value": "#d1afa8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:77",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -2112,16 +970,7 @@
         "value": "#bf8b7f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:78",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -2129,16 +978,7 @@
         "value": "#ab583e",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:79",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -2146,16 +986,7 @@
         "value": "#994f37",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:80",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -2163,16 +994,7 @@
         "value": "#844430",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:81",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2180,16 +1002,7 @@
         "value": "#6c3827",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:82",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2197,16 +1010,7 @@
         "value": "#4c271c",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:83",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -2216,16 +1020,7 @@
         "value": "#f3f8f4",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:84",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -2233,16 +1028,7 @@
         "value": "#e6f1e9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:85",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -2250,16 +1036,7 @@
         "value": "#c9e1d0",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:86",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -2267,16 +1044,7 @@
         "value": "#a8d1b5",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:87",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -2284,16 +1052,7 @@
         "value": "#7fbf94",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:88",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -2301,16 +1060,7 @@
         "value": "#3eab69",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:89",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -2318,16 +1068,7 @@
         "value": "#37995e",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:90",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -2335,16 +1076,7 @@
         "value": "#308451",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:91",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2352,16 +1084,7 @@
         "value": "#276c42",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:92",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2369,16 +1092,7 @@
         "value": "#1c4c2f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:93",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -2388,16 +1102,7 @@
         "value": "#f2fdfd",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:94",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -2405,16 +1110,7 @@
         "value": "#e5fbfc",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:95",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -2422,16 +1118,7 @@
         "value": "#c8f7f8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:96",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -2439,16 +1126,7 @@
         "value": "#a6f3f5",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:97",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -2456,16 +1134,7 @@
         "value": "#7aeff1",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:98",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -2473,16 +1142,7 @@
         "value": "#30ebee",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:99",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -2490,16 +1150,7 @@
         "value": "#2bd2d5",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:100",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -2507,16 +1158,7 @@
         "value": "#25b6b8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:101",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2524,16 +1166,7 @@
         "value": "#1e9597",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:102",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2541,16 +1174,7 @@
         "value": "#15696a",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8002:103",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -2559,16 +1183,7 @@
       "value": "#212121",
       "description": "",
       "$extensions": {
-        "mode": {},
-        "figma": {
-          "codeSyntax": {},
-          "variableId": "VariableID:8002:104",
-          "collection": {
-            "id": "VariableCollectionId:8002:3",
-            "name": "global",
-            "defaultModeId": "8002:0"
-          }
-        }
+        "mode": {}
       }
     },
     "white": {
@@ -2576,16 +1191,7 @@
       "value": "#ffffff",
       "description": "",
       "$extensions": {
-        "mode": {},
-        "figma": {
-          "codeSyntax": {},
-          "variableId": "VariableID:8002:105",
-          "collection": {
-            "id": "VariableCollectionId:8002:3",
-            "name": "global",
-            "defaultModeId": "8002:0"
-          }
-        }
+        "mode": {}
       }
     },
     "alpha": {
@@ -2593,16 +1199,7 @@
       "value": "#ffffff00",
       "description": "",
       "$extensions": {
-        "mode": {},
-        "figma": {
-          "codeSyntax": {},
-          "variableId": "VariableID:8002:106",
-          "collection": {
-            "id": "VariableCollectionId:8002:3",
-            "name": "global",
-            "defaultModeId": "8002:0"
-          }
-        }
+        "mode": {}
       }
     },
     "acid": {
@@ -2611,16 +1208,7 @@
         "value": "#fbfff3",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4511",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -2628,16 +1216,7 @@
         "value": "#f7ffe6",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4512",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -2645,16 +1224,7 @@
         "value": "#efffc9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4513",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -2662,16 +1232,7 @@
         "value": "#e6ffa8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4514",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -2679,16 +1240,7 @@
         "value": "#ddff7f",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4515",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -2696,16 +1248,7 @@
         "value": "#d4ff3e",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4516",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -2713,16 +1256,7 @@
         "value": "#bee437",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4517",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -2730,16 +1264,7 @@
         "value": "#a4c630",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4518",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2747,16 +1272,7 @@
         "value": "#86a127",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4519",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2764,16 +1280,7 @@
         "value": "#5f721c",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4520",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     },
@@ -2783,16 +1290,7 @@
         "value": "#fef6fe",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4521",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "20": {
@@ -2800,16 +1298,7 @@
         "value": "#fdecfd",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4522",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "30": {
@@ -2817,16 +1306,7 @@
         "value": "#fbd8fa",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4523",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "40": {
@@ -2834,16 +1314,7 @@
         "value": "#fac1f8",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4524",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "50": {
@@ -2851,16 +1322,7 @@
         "value": "#f8a8f5",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4525",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "60": {
@@ -2868,16 +1330,7 @@
         "value": "#f68af3",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4526",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "70": {
@@ -2885,16 +1338,7 @@
         "value": "#dc7bd9",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4527",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "80": {
@@ -2902,16 +1346,7 @@
         "value": "#bf6bbc",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4528",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "90": {
@@ -2919,16 +1354,7 @@
         "value": "#9c579a",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4529",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       },
       "100": {
@@ -2936,16 +1362,7 @@
         "value": "#6e3e6d",
         "description": "",
         "$extensions": {
-          "mode": {},
-          "figma": {
-            "codeSyntax": {},
-            "variableId": "VariableID:8003:4530",
-            "collection": {
-              "id": "VariableCollectionId:8002:3",
-              "name": "global",
-              "defaultModeId": "8002:0"
-            }
-          }
+          "mode": {}
         }
       }
     }
@@ -2959,7 +1376,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2025-05-12T04:31:50.538Z"
+      "createdAt": "2026-02-04T21:05:46.644Z"
     }
   }
 }
