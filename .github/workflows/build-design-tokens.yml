@@ -6,8 +6,14 @@ on:
       - main
       - devel
       - branch-anas
-      - branch-mattia
       - branch-chiara
+      - branch-mauro
+      - branch-federico
+      - branch-elena
+      - branch-luisa
+      - branch-vera
+      - branch-gioacchino
+      - branch-gabriele
     paths:
       - tokens/**/*.tokens.json
 
