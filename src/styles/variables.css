@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 04 Feb 2026 21:06:25 GMT
+ * Generated on Wed, 04 Feb 2026 21:50:37 GMT
  */
 
 :root {
@@ -152,7 +152,7 @@
   --color-background-secondary-hover: var(--breeze-70);
   --color-background-secondary: var(--breeze-60);
   --color-background-primary-active: var(--green-90);
-  --color-background-primary-hover: var(--green-80);
+  --color-background-primary-hover: var(--green-70);
   --color-background-primary: var(--green-60);
   --color-background-default: var(--white);
   --button-tertiary-fg-active: var(--color-background-tertiary-active);
