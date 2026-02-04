@@ -20,7 +20,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.green.80}",
+          "value": "{global.green.70}",
           "description": "",
           "$extensions": {
             "mode": {}
@@ -1376,7 +1376,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2026-02-04T21:05:46.644Z"
+      "createdAt": "2026-02-04T21:28:35.878Z"
     }
   }
 }
