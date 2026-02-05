@@ -12,7 +12,7 @@
         },
         "primary": {
           "type": "color",
-          "value": "{global.green.60}",
+          "value": "{global.lightBlue.60}",
           "description": "",
           "$extensions": {
             "mode": {}
@@ -20,7 +20,7 @@
         },
         "primary-hover": {
           "type": "color",
-          "value": "{global.green.70}",
+          "value": "{global.lightBlue.70}",
           "description": "",
           "$extensions": {
             "mode": {}
@@ -28,7 +28,7 @@
         },
         "primary-active": {
           "type": "color",
-          "value": "{global.green.90}",
+          "value": "{global.lightBlue.90}",
           "description": "",
           "$extensions": {
             "mode": {}
@@ -1376,7 +1376,7 @@
         "specific",
         "global"
       ],
-      "createdAt": "2026-02-05T10:16:44.070Z"
+      "createdAt": "2026-02-05T15:51:01.524Z"
     }
   }
 }
